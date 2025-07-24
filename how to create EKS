@@ -10,7 +10,7 @@ Terraform-eks
 
 # Connect Terraform with AWS
 
---> Run aws configure command and provide the AWS Security credentials which are access key and secter access key.
+--> Run aws configure command and provide the AWS Security credentials which are access key and secret key.
 
 # Initialize Terraform
 
