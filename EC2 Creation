@@ -16,8 +16,8 @@ In your terminal, navigate to the directory containing your Terraform configurat
 terraform init
 This command initializes the Terraform working directory, downloading any necessary provider plugins.
 
-Apply the Configuration
-Run the following command to create the AWS resources defined in your Terraform configuration:
+terraform plan:
+It will display about the overview of resources which you going to create.
 
 terraform apply
 Terraform will display a plan of the changes it's going to make. Review the plan and type "yes" when prompted to apply it.
